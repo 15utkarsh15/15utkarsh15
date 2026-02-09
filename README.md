@@ -15,7 +15,7 @@ B.E.(2025) with a strong foundation in software engineering and problem-solving<
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=15utkarsh15&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **15utkarsh15/15utkarsh15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
